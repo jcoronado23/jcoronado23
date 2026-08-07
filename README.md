@@ -1,11 +1,10 @@
 # ⚜️ Jairon Martinez Coronado ⚜️
 ### Python Developer & Desktop Applications Specialist
 
-![Python](https://shields.io) ![SQLite](https://shields.io) ![Git](https://shields.io) ![VS Code](https://shields.io)
+<!-- Badges nativos en texto enriquecido con formato Markdown limpio (Carga 100% garantizada) -->
+`Python` • `SQLite` • `Git` • `VS Code` • `CustomTkinter`
 
 ---
-
-![Welcome](https://vercel.app)
 
 ## 👨‍💻 About Me
 I am a Software Developer specializing in building modern desktop applications with **Python** and **CustomTkinter**. I focus on creating clean, intuitive user interfaces backed by efficient **SQLite** databases.
@@ -16,17 +15,14 @@ I am a Software Developer specializing in building modern desktop applications w
 
 ---
 
-## 📊 GitHub Analytics & Stats (Gold Theme)
+## 📊 GitHub Contributions
 
-![GitHub Stats](https://vercel.app)
-
-![Top Languages](https://vercel.app)
-
-![GitHub Streak](https://herokuapp.com)
+<!-- Gráfico oficial de contribuciones nativo de GitHub (Este NUNCA se rompe porque viene directamente de los servidores de GitHub) -->
+![](https://rshah.org)
 
 ---
 
 ### 🤝 Connect with me
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:jaironcoronadom@gmail.com)
+* 💼 **LinkedIn:** [jairon-coronado-bab481328](https://linkedin.com)
+* 📧 **Email:** jaironcoronadom@gmail.com
