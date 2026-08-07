@@ -49,7 +49,7 @@ I am a Software Developer specializing in building modern desktop applications w
 <div align="center">
   
 ### 🤝 Connect with me
-[![LinkedIn](https://shields.io)](TU_LINK_DE_LINKEDIN)
-[![Email](https://shields.io)](mailto:tu_correo@email.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Email](https://shields.io)](mailto:jaironcoronadom@gmail.com)
 
 </div>
