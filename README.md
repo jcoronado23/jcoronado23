@@ -1,7 +1,6 @@
 # ⚜️ Jairon Martinez Coronado ⚜️
 ### Python Developer & Desktop Applications Specialist
 
-<!-- Badges nativos en texto enriquecido con formato Markdown limpio (Carga 100% garantizada) -->
 `Python` • `SQLite` • `Git` • `VS Code` • `CustomTkinter`
 
 ---
@@ -15,14 +14,16 @@ I am a Software Developer specializing in building modern desktop applications w
 
 ---
 
-## 📊 GitHub Contributions
+## 🛠️ Tech Stack & Skills
 
-<!-- Gráfico oficial de contribuciones nativo de GitHub (Este NUNCA se rompe porque viene directamente de los servidores de GitHub) -->
-![](https://rshah.org)
+* **Languages:** Python (Core, OOP, File Handling)
+* **GUI Frameworks:** CustomTkinter, Tkinter (Desktop UI Design)
+* **Databases:** SQLite (CRUD operations, Data Persistence)
+* **Tools & Workflow:** Git, GitHub, Visual Studio Code
 
 ---
 
-### 🤝 Connect with me
+## 🤝 Connect with me
 
 * 💼 **LinkedIn:** [jairon-coronado-bab481328](https://linkedin.com)
 * 📧 **Email:** jaironcoronadom@gmail.com
