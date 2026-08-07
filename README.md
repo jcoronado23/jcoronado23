@@ -1,16 +1,55 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**jcoronado23/jcoronado23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚜️ Jairon Martinez Coronado ⚜️
+### Python Developer & Desktop Applications Specialist
 
-Here are some ideas to get you started:
+<p align="center">
+  <!-- Badges en Oro/Negro -->
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="SQLite" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="VS Code" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- Banner con Línea Divisoria Dorada Dinámica -->
+<img src="https://vercel.app" width="100%" />
+
+</div>
+
+## 👨‍💻 About Me
+I am a Software Developer specializing in building modern desktop applications with **Python** and **CustomTkinter**. I focus on creating clean, intuitive user interfaces backed by efficient **SQLite** databases.
+
+* 🚀 Currently building: **LexiPy - Smart Dictionary** (A desktop tool with persistent storage)
+* 🧠 Learning: Advanced Object-Oriented Programming (OOP) and Software Architecture
+* 💼 Goal: Collaborating on international projects and scalable software solutions
+
+---
+
+## 📊 GitHub Analytics & Stats (Gold Theme)
+
+<div align="center">
+  <!-- Tarjeta de Estadísticas de GitHub en Dorado -->
+  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
+  
+  <!-- Tarjeta de Lenguajes Más Usados en Dorado -->
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Gráfico de racha (Streak) en Dorado -->
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="97%" />
+</div>
+
+---
+
+<div align="center">
+  
+### 🤝 Connect with me
+[![LinkedIn](https://shields.io)](TU_LINK_DE_LINKEDIN)
+[![Email](https://shields.io)](mailto:tu_correo@email.com)
+
+</div>
